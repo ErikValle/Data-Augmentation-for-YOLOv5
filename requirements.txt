@@ -29,5 +29,5 @@ pandas
 # pycocotools>=2.0  # COCO mAP
 # albumentations>=1.0.3
 tensorflow-hub>=0.12.0
-scikit-image>=0.18.3
+scikit-image
 thop  # FLOPs computation
